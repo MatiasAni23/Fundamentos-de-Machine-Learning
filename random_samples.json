@@ -1,0 +1,272 @@
+[
+  {
+    "ScaledTimeAlive": 1.9579,
+    "RoundWinner": 1,
+    "TravelledDistance": 26039519.6519,
+    "RoundKills": 3.0618,
+    "AvgKillDistance": 8779885.369,
+    "FirstKillTime": 160.2061,
+    "AvgCentroidDistance": 11253376.9565
+  },
+  {
+    "ScaledTimeAlive": 0.0857,
+    "RoundWinner": 0,
+    "TravelledDistance": 12998544.3719,
+    "RoundKills": 4.2588,
+    "AvgKillDistance": 1613987.0132,
+    "FirstKillTime": 0.2073,
+    "AvgCentroidDistance": 21438939.5499
+  },
+  {
+    "ScaledTimeAlive": 1.8617,
+    "RoundWinner": 0,
+    "TravelledDistance": 27039798.1372,
+    "RoundKills": 1.6905,
+    "AvgKillDistance": 3602885.9959,
+    "FirstKillTime": 442.2757,
+    "AvgCentroidDistance": 16683580.6678
+  },
+  {
+    "ScaledTimeAlive": 1.3786,
+    "RoundWinner": 0,
+    "TravelledDistance": 21850558.8572,
+    "RoundKills": 2.1044,
+    "AvgKillDistance": 10211845.8282,
+    "FirstKillTime": 462.8353,
+    "AvgCentroidDistance": 20370926.7573
+  },
+  {
+    "ScaledTimeAlive": 1.05,
+    "RoundWinner": 1,
+    "TravelledDistance": 27804693.9594,
+    "RoundKills": 1.6311,
+    "AvgKillDistance": 9521234.8132,
+    "FirstKillTime": 412.847,
+    "AvgCentroidDistance": 10591223.2614
+  },
+  {
+    "ScaledTimeAlive": 1.0824,
+    "RoundWinner": 0,
+    "TravelledDistance": 17295585.5408,
+    "RoundKills": 2.9268,
+    "AvgKillDistance": 850955.2044,
+    "FirstKillTime": 369.4233,
+    "AvgCentroidDistance": 13409343.935
+  },
+  {
+    "ScaledTimeAlive": 0.6156,
+    "RoundWinner": 0,
+    "TravelledDistance": 13835.8017,
+    "RoundKills": 0.2601,
+    "AvgKillDistance": 7085199.7218,
+    "FirstKillTime": 438.66,
+    "AvgCentroidDistance": 10288151.0611
+  },
+  {
+    "ScaledTimeAlive": 1.108,
+    "RoundWinner": 1,
+    "TravelledDistance": 32702253.6704,
+    "RoundKills": 4.5733,
+    "AvgKillDistance": 4614694.124,
+    "FirstKillTime": 32.9376,
+    "AvgCentroidDistance": 8309685.6442
+  },
+  {
+    "ScaledTimeAlive": 0.1379,
+    "RoundWinner": 0,
+    "TravelledDistance": 1431254.2486,
+    "RoundKills": 3.7882,
+    "AvgKillDistance": 3523001.9728,
+    "FirstKillTime": 165.5003,
+    "AvgCentroidDistance": 6827340.0228
+  },
+  {
+    "ScaledTimeAlive": 0.7981,
+    "RoundWinner": 1,
+    "TravelledDistance": 20452463.3385,
+    "RoundKills": 2.0127,
+    "AvgKillDistance": 1504693.096,
+    "FirstKillTime": 436.0758,
+    "AvgCentroidDistance": 479507.9692
+  },
+  {
+    "ScaledTimeAlive": 0.9878,
+    "RoundWinner": 1,
+    "TravelledDistance": 30248461.4618,
+    "RoundKills": 1.0704,
+    "AvgKillDistance": 3163374.4123,
+    "FirstKillTime": 113.1633,
+    "AvgCentroidDistance": 18818400.784
+  },
+  {
+    "ScaledTimeAlive": 1.8574,
+    "RoundWinner": 0,
+    "TravelledDistance": 23968841.9352,
+    "RoundKills": 0.1988,
+    "AvgKillDistance": 1393037.2702,
+    "FirstKillTime": 343.7834,
+    "AvgCentroidDistance": 973493.9867
+  },
+  {
+    "ScaledTimeAlive": 0.6052,
+    "RoundWinner": 1,
+    "TravelledDistance": 24651880.9324,
+    "RoundKills": 3.0937,
+    "AvgKillDistance": 9144501.2629,
+    "FirstKillTime": 85.2308,
+    "AvgCentroidDistance": 9339028.3927
+  },
+  {
+    "ScaledTimeAlive": 1.9746,
+    "RoundWinner": 1,
+    "TravelledDistance": 24931591.4111,
+    "RoundKills": 3.2108,
+    "AvgKillDistance": 374875.7581,
+    "FirstKillTime": 21.5996,
+    "AvgCentroidDistance": 4634308.176
+  },
+  {
+    "ScaledTimeAlive": 1.6962,
+    "RoundWinner": 0,
+    "TravelledDistance": 28910300.95,
+    "RoundKills": 0.2952,
+    "AvgKillDistance": 1734171.0078,
+    "FirstKillTime": 211.4986,
+    "AvgCentroidDistance": 20044724.3313
+  },
+  {
+    "ScaledTimeAlive": 0.6026,
+    "RoundWinner": 1,
+    "TravelledDistance": 22661191.4912,
+    "RoundKills": 0.7529,
+    "AvgKillDistance": 9901464.1769,
+    "FirstKillTime": 372.8264,
+    "AvgCentroidDistance": 11949209.6919
+  },
+  {
+    "ScaledTimeAlive": 0.3177,
+    "RoundWinner": 0,
+    "TravelledDistance": 23524920.8665,
+    "RoundKills": 3.7903,
+    "AvgKillDistance": 4500972.1713,
+    "FirstKillTime": 152.6151,
+    "AvgCentroidDistance": 17390417.2934
+  },
+  {
+    "ScaledTimeAlive": 0.5412,
+    "RoundWinner": 0,
+    "TravelledDistance": 30965610.1146,
+    "RoundKills": 0.8725,
+    "AvgKillDistance": 180916.2725,
+    "FirstKillTime": 263.8279,
+    "AvgCentroidDistance": 20963878.7131
+  },
+  {
+    "ScaledTimeAlive": 1.6863,
+    "RoundWinner": 1,
+    "TravelledDistance": 1684928.2655,
+    "RoundKills": 0.9136,
+    "AvgKillDistance": 5952285.0893,
+    "FirstKillTime": 208.329,
+    "AvgCentroidDistance": 9229823.1109
+  },
+  {
+    "ScaledTimeAlive": 0.2815,
+    "RoundWinner": 0,
+    "TravelledDistance": 3728977.2793,
+    "RoundKills": 2.5004,
+    "AvgKillDistance": 8035066.7477,
+    "FirstKillTime": 533.1752,
+    "AvgCentroidDistance": 12344408.6416
+  },
+  {
+    "ScaledTimeAlive": 1.9033,
+    "RoundWinner": 1,
+    "TravelledDistance": 1774231.1307,
+    "RoundKills": 3.1299,
+    "AvgKillDistance": 868174.1662,
+    "FirstKillTime": 520.9072,
+    "AvgCentroidDistance": 8009301.8778
+  },
+  {
+    "ScaledTimeAlive": 1.3068,
+    "RoundWinner": 1,
+    "TravelledDistance": 1639039.6946,
+    "RoundKills": 1.0378,
+    "AvgKillDistance": 266516.1477,
+    "FirstKillTime": 123.8268,
+    "AvgCentroidDistance": 11390304.1843
+  },
+  {
+    "ScaledTimeAlive": 0.5376,
+    "RoundWinner": 0,
+    "TravelledDistance": 9533704.5955,
+    "RoundKills": 1.5657,
+    "AvgKillDistance": 4147360.51,
+    "FirstKillTime": 340.5179,
+    "AvgCentroidDistance": 17249120.0767
+  },
+  {
+    "ScaledTimeAlive": 1.2334,
+    "RoundWinner": 1,
+    "TravelledDistance": 8733564.0871,
+    "RoundKills": 0.4859,
+    "AvgKillDistance": 8994719.4431,
+    "FirstKillTime": 279.2963,
+    "AvgCentroidDistance": 7096767.3202
+  },
+  {
+    "ScaledTimeAlive": 0.2099,
+    "RoundWinner": 1,
+    "TravelledDistance": 31412943.2922,
+    "RoundKills": 2.8359,
+    "AvgKillDistance": 2550686.2115,
+    "FirstKillTime": 276.7841,
+    "AvgCentroidDistance": 14967494.9146
+  },
+  {
+    "ScaledTimeAlive": 1.6495,
+    "RoundWinner": 0,
+    "TravelledDistance": 28612972.4845,
+    "RoundKills": 0.9839,
+    "AvgKillDistance": 8982965.1404,
+    "FirstKillTime": 218.5625,
+    "AvgCentroidDistance": 12406538.5304
+  },
+  {
+    "ScaledTimeAlive": 0.3784,
+    "RoundWinner": 0,
+    "TravelledDistance": 34865181.3147,
+    "RoundKills": 3.059,
+    "AvgKillDistance": 2208285.0968,
+    "FirstKillTime": 415.812,
+    "AvgCentroidDistance": 11867194.5514
+  },
+  {
+    "ScaledTimeAlive": 1.2085,
+    "RoundWinner": 1,
+    "TravelledDistance": 34652659.656,
+    "RoundKills": 2.4464,
+    "AvgKillDistance": 3771108.3353,
+    "FirstKillTime": 22.13,
+    "AvgCentroidDistance": 11484390.8637
+  },
+  {
+    "ScaledTimeAlive": 1.5454,
+    "RoundWinner": 0,
+    "TravelledDistance": 13080569.5112,
+    "RoundKills": 1.3074,
+    "AvgKillDistance": 7460373.2002,
+    "FirstKillTime": 367.8551,
+    "AvgCentroidDistance": 14409021.3706
+  },
+  {
+    "ScaledTimeAlive": 0.6616,
+    "RoundWinner": 0,
+    "TravelledDistance": 9895535.3949,
+    "RoundKills": 2.2375,
+    "AvgKillDistance": 464121.7375,
+    "FirstKillTime": 338.5548,
+    "AvgCentroidDistance": 18170879.9846
+  }
+]
